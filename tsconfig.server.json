@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2023"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "outDir": "dist/server",
+    "rootDir": "src",
+    "types": ["node"],
+    "sourceMap": true
+  },
+  "include": ["src/server", "src/shared"],
+  "exclude": ["src/server/tests"]
+}

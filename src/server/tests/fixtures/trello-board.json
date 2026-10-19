@@ -1,0 +1,199 @@
+{
+  "id": "6712a0c4e1f2a30b9c8d7e61",
+  "name": "Obby Tycoon — Sprint Board",
+  "desc": "Planning board for the Obby Tycoon update.",
+  "descData": null,
+  "closed": false,
+  "dateClosed": null,
+  "idOrganization": "5f1e2d3c4b5a69788796a5b4",
+  "idEnterprise": null,
+  "pinned": false,
+  "url": "https://trello.com/b/AbCdEf12/obby-tycoon-sprint-board",
+  "shortUrl": "https://trello.com/b/AbCdEf12",
+  "prefs": {
+    "permissionLevel": "org",
+    "voting": "disabled",
+    "comments": "members",
+    "background": "blue",
+    "backgroundColor": "#0079BF",
+    "cardCovers": true,
+    "isTemplate": false
+  },
+  "labelNames": { "green": "Building", "yellow": "", "orange": "", "red": "Bug", "purple": "Scripting", "blue": "" },
+  "dateLastActivity": "2026-10-12T09:41:22.511Z",
+  "labels": [
+    { "id": "6712a0c4e1f2a30b9c8d7e70", "idBoard": "6712a0c4e1f2a30b9c8d7e61", "name": "Building", "color": "green", "uses": 1 },
+    { "id": "6712a0c4e1f2a30b9c8d7e71", "idBoard": "6712a0c4e1f2a30b9c8d7e61", "name": "Bug", "color": "red", "uses": 1 },
+    { "id": "6712a0c4e1f2a30b9c8d7e72", "idBoard": "6712a0c4e1f2a30b9c8d7e61", "name": "Scripting", "color": "purple", "uses": 2 },
+    { "id": "6712a0c4e1f2a30b9c8d7e73", "idBoard": "6712a0c4e1f2a30b9c8d7e61", "name": "", "color": "sky_dark", "uses": 1 }
+  ],
+  "lists": [
+    { "id": "6712a0c4e1f2a30b9c8d7e80", "name": "To Do", "closed": false, "idBoard": "6712a0c4e1f2a30b9c8d7e61", "pos": 16384, "subscribed": false, "softLimit": null },
+    { "id": "6712a0c4e1f2a30b9c8d7e81", "name": "Doing", "closed": false, "idBoard": "6712a0c4e1f2a30b9c8d7e61", "pos": 32768, "subscribed": false, "softLimit": null },
+    { "id": "6712a0c4e1f2a30b9c8d7e82", "name": "Done", "closed": false, "idBoard": "6712a0c4e1f2a30b9c8d7e61", "pos": 49152, "subscribed": false, "softLimit": null }
+  ],
+  "cards": [
+    {
+      "id": "6712a0c4e1f2a30b9c8d7e90",
+      "badges": { "attachments": 1, "checkItems": 3, "checkItemsChecked": 1, "comments": 1, "description": true, "due": "2026-11-20T17:00:00.000Z", "dueComplete": false, "votes": 0 },
+      "checkItemStates": [],
+      "closed": false,
+      "dueComplete": false,
+      "dateLastActivity": "2026-10-12T09:41:22.511Z",
+      "desc": "Pets should follow the player using **PathfindingService**.",
+      "due": "2026-11-20T17:00:00.000Z",
+      "dueReminder": 1440,
+      "idBoard": "6712a0c4e1f2a30b9c8d7e61",
+      "idChecklists": ["6712a0c4e1f2a30b9c8d7ea0"],
+      "idLabels": ["6712a0c4e1f2a30b9c8d7e72", "6712a0c4e1f2a30b9c8d7e73"],
+      "idList": "6712a0c4e1f2a30b9c8d7e81",
+      "idMembers": ["5a1b2c3d4e5f60718293a4b5"],
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "manualCoverAttachment": false,
+      "name": "Pet follow system",
+      "pos": 16384,
+      "shortLink": "Xy12Ab34",
+      "shortUrl": "https://trello.com/c/Xy12Ab34",
+      "start": "2026-11-01T09:00:00.000Z",
+      "url": "https://trello.com/c/Xy12Ab34/1-pet-follow-system",
+      "cover": { "idAttachment": null, "color": "purple", "idUploadedBackground": null, "size": "normal", "brightness": "dark" },
+      "attachments": [
+        { "id": "6712a0c4e1f2a30b9c8d7eb0", "bytes": 48213, "date": "2026-10-10T12:00:00.000Z", "isUpload": true, "mimeType": "image/png", "name": "pet-path.png", "url": "https://trello.com/1/cards/6712a0c4e1f2a30b9c8d7e90/attachments/6712a0c4e1f2a30b9c8d7eb0/download/pet-path.png", "pos": 16384 }
+      ],
+      "customFieldItems": [
+        { "id": "6712a0c4e1f2a30b9c8d7ec0", "value": { "number": "8" }, "idCustomField": "6712a0c4e1f2a30b9c8d7ed0", "idModel": "6712a0c4e1f2a30b9c8d7e90", "modelType": "card" },
+        { "id": "6712a0c4e1f2a30b9c8d7ec1", "idValue": "6712a0c4e1f2a30b9c8d7ee1", "idCustomField": "6712a0c4e1f2a30b9c8d7ed1", "idModel": "6712a0c4e1f2a30b9c8d7e90", "modelType": "card" }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "6712a0c4e1f2a30b9c8d7e91",
+      "closed": false,
+      "dueComplete": false,
+      "desc": "",
+      "due": null,
+      "idChecklists": [],
+      "idLabels": ["6712a0c4e1f2a30b9c8d7e71"],
+      "idList": "6712a0c4e1f2a30b9c8d7e80",
+      "idMembers": ["5a1b2c3d4e5f60718293a4b6"],
+      "name": "Checkpoints don't save after rejoin",
+      "pos": 16384,
+      "start": null,
+      "cover": { "idAttachment": null, "color": null },
+      "attachments": [],
+      "customFieldItems": [],
+      "stickers": [{ "id": "s1", "image": "taco-cool", "top": 0, "left": 0, "zIndex": 1 }]
+    },
+    {
+      "id": "6712a0c4e1f2a30b9c8d7e92",
+      "closed": false,
+      "dueComplete": false,
+      "desc": "Tween the conveyor speed upgrades.",
+      "due": null,
+      "idChecklists": [],
+      "idLabels": ["6712a0c4e1f2a30b9c8d7e72"],
+      "idList": "6712a0c4e1f2a30b9c8d7e80",
+      "idMembers": [],
+      "name": "Conveyor upgrades",
+      "pos": 32768,
+      "start": null,
+      "attachments": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6712a0c4e1f2a30b9c8d7e93",
+      "closed": false,
+      "dueComplete": true,
+      "desc": "",
+      "due": "2026-10-05T12:00:00.000Z",
+      "idChecklists": [],
+      "idLabels": ["6712a0c4e1f2a30b9c8d7e70"],
+      "idList": "6712a0c4e1f2a30b9c8d7e82",
+      "idMembers": [],
+      "name": "Lobby lighting",
+      "pos": 16384,
+      "start": null,
+      "attachments": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6712a0c4e1f2a30b9c8d7e94",
+      "closed": true,
+      "dueComplete": false,
+      "desc": "",
+      "due": null,
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6712a0c4e1f2a30b9c8d7e80",
+      "idMembers": [],
+      "name": "Old idea",
+      "pos": 65536,
+      "start": null,
+      "attachments": [],
+      "customFieldItems": []
+    }
+  ],
+  "checklists": [
+    {
+      "id": "6712a0c4e1f2a30b9c8d7ea0",
+      "name": "Tasks",
+      "idBoard": "6712a0c4e1f2a30b9c8d7e61",
+      "idCard": "6712a0c4e1f2a30b9c8d7e90",
+      "pos": 16384,
+      "checkItems": [
+        { "id": "6712a0c4e1f2a30b9c8d7ea1", "name": "Pathfinding", "nameData": null, "pos": 16384, "state": "complete", "due": null, "idMember": null, "idChecklist": "6712a0c4e1f2a30b9c8d7ea0" },
+        { "id": "6712a0c4e1f2a30b9c8d7ea2", "name": "Idle animation", "nameData": null, "pos": 32768, "state": "incomplete", "due": null, "idMember": null, "idChecklist": "6712a0c4e1f2a30b9c8d7ea0" },
+        { "id": "6712a0c4e1f2a30b9c8d7ea3", "name": "Rarity tiers", "nameData": null, "pos": 49152, "state": "incomplete", "due": null, "idMember": null, "idChecklist": "6712a0c4e1f2a30b9c8d7ea0" }
+      ]
+    }
+  ],
+  "customFields": [
+    { "id": "6712a0c4e1f2a30b9c8d7ed0", "idModel": "6712a0c4e1f2a30b9c8d7e61", "modelType": "board", "fieldGroup": "a1", "display": { "cardFront": true }, "name": "Estimate", "pos": 16384, "type": "number" },
+    {
+      "id": "6712a0c4e1f2a30b9c8d7ed1",
+      "idModel": "6712a0c4e1f2a30b9c8d7e61",
+      "modelType": "board",
+      "fieldGroup": "a2",
+      "display": { "cardFront": true },
+      "name": "Platform",
+      "pos": 32768,
+      "type": "list",
+      "options": [
+        { "id": "6712a0c4e1f2a30b9c8d7ee0", "idCustomField": "6712a0c4e1f2a30b9c8d7ed1", "value": { "text": "PC" }, "color": "none", "pos": 16384 },
+        { "id": "6712a0c4e1f2a30b9c8d7ee1", "idCustomField": "6712a0c4e1f2a30b9c8d7ed1", "value": { "text": "Mobile" }, "color": "green", "pos": 32768 }
+      ]
+    }
+  ],
+  "members": [
+    { "id": "5a1b2c3d4e5f60718293a4b5", "fullName": "Trello Fan", "username": "trellofan", "avatarUrl": null, "initials": "TF" },
+    { "id": "5a1b2c3d4e5f60718293a4b6", "fullName": "Someone Else", "username": "someone_not_here", "avatarUrl": null, "initials": "SE" }
+  ],
+  "actions": [
+    {
+      "id": "6712a0c4e1f2a30b9c8d7f00",
+      "idMemberCreator": "5a1b2c3d4e5f60718293a4b5",
+      "type": "commentCard",
+      "date": "2026-10-11T15:20:00.000Z",
+      "data": { "text": "Pathfinding is done, starting on idle animation.", "card": { "id": "6712a0c4e1f2a30b9c8d7e90", "name": "Pet follow system", "idShort": 1, "shortLink": "Xy12Ab34" }, "board": { "id": "6712a0c4e1f2a30b9c8d7e61", "name": "Obby Tycoon — Sprint Board" }, "list": { "id": "6712a0c4e1f2a30b9c8d7e81", "name": "Doing" } },
+      "memberCreator": { "id": "5a1b2c3d4e5f60718293a4b5", "fullName": "Trello Fan", "username": "trellofan" }
+    },
+    {
+      "id": "6712a0c4e1f2a30b9c8d7f01",
+      "idMemberCreator": "5a1b2c3d4e5f60718293a4b6",
+      "type": "commentCard",
+      "date": "2026-10-09T10:00:00.000Z",
+      "data": { "text": "Can reproduce on mobile.", "card": { "id": "6712a0c4e1f2a30b9c8d7e91", "name": "Checkpoints don't save after rejoin" }, "board": { "id": "6712a0c4e1f2a30b9c8d7e61" } },
+      "memberCreator": { "id": "5a1b2c3d4e5f60718293a4b6", "fullName": "Someone Else", "username": "someone_not_here" }
+    },
+    {
+      "id": "6712a0c4e1f2a30b9c8d7f02",
+      "idMemberCreator": "5a1b2c3d4e5f60718293a4b5",
+      "type": "updateCard",
+      "date": "2026-10-08T10:00:00.000Z",
+      "data": { "listBefore": { "id": "6712a0c4e1f2a30b9c8d7e80" }, "listAfter": { "id": "6712a0c4e1f2a30b9c8d7e81" }, "card": { "id": "6712a0c4e1f2a30b9c8d7e90" } },
+      "memberCreator": { "id": "5a1b2c3d4e5f60718293a4b5", "fullName": "Trello Fan", "username": "trellofan" }
+    }
+  ],
+  "pluginData": [{ "id": "p1", "idPlugin": "55a5d916446f517774210004", "scope": "board", "idModelScope": "6712a0c4e1f2a30b9c8d7e61", "value": "{}", "access": "shared" }]
+}
